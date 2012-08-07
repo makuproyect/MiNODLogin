@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Usar http://www.base64encode.org/ para codificar las URLs -->
+<opciones>
+	<servidores>		
+		<servidorRSS codificado="si" nombre="MDEtbm9kMzJueWEuYmxvZ3Nwb3QuY29t" url="aHR0cDovL25vZDMybnlhLmJsb2dzcG90LmNvbS9mZWVkcy9wb3N0cy9kZWZhdWx0P2FsdD1yc3M="/>
+		<servidorXML codificado="si" nombre="MDItbm9kcGFyYXNpZW1wcmUuYmxvZ3Nwb3QuY29t" url="aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL1NlcmlhbGVzTm9kMzItQ2xhdmVzTm9kMzI="/>
+		<servidorXML codificado="si" nombre="MDMtY2xhdmVzbm9kMzJzZXJpYWwuYmxvZ3Nwb3QuY29t" url="aHR0cDovL2NsYXZlc25vZDMyc2VyaWFsLmJsb2dzcG90LmNvbS9mZWVkcy9wb3N0cy9kZWZhdWx0P2FsdD1yc3M="/>
+		<servidorXML codificado="si" nombre="MDQtc2VyaWFsbm9kMzJncmF0aXMuYmxvZ3Nwb3QuY29t" url="aHR0cDovL3NlcmlhbG5vZDMyZ3JhdGlzLmJsb2dzcG90LmNvbS9mZWVkcy9wb3N0cy9kZWZhdWx0"/>
+		<servidorXML codificado="si" nombre="MDUtbm9kMTIzZXNldC5ibG9nc3BvdC5jb20=" url="aHR0cDovL25vZDEyM2VzZXQuYmxvZ3Nwb3QuY29tL2ZlZWRzL3Bvc3RzL2RlZmF1bHQ/YWx0PXJzcw=="/>		
+		<servidorXML codificado="si" nombre="MDYtbm9kMzJ1c2VybmFtZS5ibG9nc3BvdC5jb20=" url="aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL2h0dHAvbm9kMzJ1c2VybmFtZWFuZHBhc3N3b3JkY29t"/>	
+		<servidorXML codificado="si" nombre="MDctRnJlc2hFc2V0Tm9kMzJLZXlzLmNvbQ==" url="aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0ZyZXNoRXNldE5vZDMyS2V5cw=="/>
+		<servidorXML codificado="si" nombre="MDgtZXNldHNtYXJ0c2VjdXJpdHk1LmJsb2dzcG90LmNvbQ==" url="aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0VzZXRTbWFydFNlY3VyaXR5NVVzZXJuYW1lQW5kUGFzc3dvcmRFc2V0"/>
+		<servidorXML codificado="si" nombre="MDktbm9kMzJsbGF2ZXMuY29t" url="aHR0cDovL25vZDMybGxhdmVzMjAxMS5ibG9nc3BvdC5jb20vZmVlZHMvcG9zdHMvZGVmYXVsdD9hbHQ9cnNz"/>
+		<servidorXML codificado="si" nombre="MTAtZXNldG5vZDMya2V5czRmcmVlLmNvbQ==" url="aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0VzZXROb2QzMktleXNsYXRlc3RVcGRhdGVzZnJlc2hVc2VybmFtZWplbQ=="/>	
+		<servidorXML codificado="si" nombre="MTEtbm9kMzIxLnZjcC5pcg==" url="aHR0cDovL25vZDMyMS52Y3AuaXIvaW5kZXgucGhwP2dvdG89cnNz"/>
+		<servidorXML codificado="si" nombre="MTItbm9kMzJzZXJpYWxzdXBwb3J0LmJsb2dzcG90LmNvbQ==" url="aHR0cDovL25vZDMyc2VyaWFsc3VwcG9ydC5ibG9nc3BvdC5jb20v"/>
+		<servidorXML codificado="si" nombre="MTMtdHVzLXNlcmlhbGVzbm9kMzIuYmxvZ3Nwb3QuY29t" url="aHR0cDovL3R1cy1zZXJpYWxlc25vZDMyLmJsb2dzcG90LmNvbS9mZWVkcy9wb3N0cy9kZWZhdWx0"/>
+		<servidorXML codificado="si" nombre="MTQtbm9kMzJzZXJpYWxzdXBwb3J0LmJsb2dzcG90LmNvbQ==" url="aHR0cDovL25vZDMyc2VyaWFsc3VwcG9ydC5ibG9nc3BvdC5jb20vZmVlZHMvcG9zdHMvZGVmYXVsdA=="/>
+		<servidorXML codificado="si" nombre="MTUtbm9kMzJuZXd1cGRhdGUuYmxvZ3Nwb3QuY29t" url="aHR0cDovL25vZDMybmV3dXBkYXRlLmJsb2dzcG90LmNvbS9mZWVkcy9wb3N0cy9kZWZhdWx0P2FsdD1yc3M="/>
+		<servidorRSS codificado="si" nombre="MTYtZXNldG5vZDMybmV3cy5ibG9nc3BvdC5jb20=" url="aHR0cDovL2VzZXRub2QzMm5ld3MuYmxvZ3Nwb3QuY29tL2ZlZWRzL3Bvc3RzL2RlZmF1bHQ/YWx0PXJzcw=="/>
+		<servidorXML codificado="si" nombre="MTctbm9kMzJ1cGRhdGVyLmJsb2dzcG90LmNvbQ==" url="aHR0cDovL25vZDMydXBkYXRlci5ibG9nc3BvdC5jb20vZmVlZHMvcG9zdHMvZGVmYXVsdA=="/>
+		<servidorRSS codificado="si" nombre="MTgtZmlhb2ZpYW8ubmV0" url="aHR0cDovL3d3dy5maWFvZmlhby5uZXQvZmVlZC8="/>
+	</servidores>
+</opciones>
